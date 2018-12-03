@@ -1,7 +1,5 @@
 package _27;
 
-import java.util.Arrays;
-
 public class Solution {
     public int removeElement(int[] nums, int val) {
         int len = nums.length;
