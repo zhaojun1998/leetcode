@@ -13,4 +13,5 @@
 
 | 题号 |      题目名称       | 难度 |
 | ---- | ------------------- | ---- |
-| 654  | Maximum Binary Tree | easy |
+| 654  | Maximum Binary Tree | Medium |
+| 701  | Insert into a Binary Search Tree | Medium |
