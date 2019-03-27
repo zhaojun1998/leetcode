@@ -15,3 +15,4 @@
 | ---- | ------------------- | ---- |
 | 654  | Maximum Binary Tree | Medium |
 | 701  | Insert into a Binary Search Tree | Medium |
+| 1008  | Construct Binary Search Tree from Preorder Traversal | Medium |
