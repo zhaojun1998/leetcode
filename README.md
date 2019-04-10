@@ -15,5 +15,6 @@
 | ---- | ---------------------------------------------------- | ------ |
 | 617  | Merge Two Binary Trees                               | Easy   |
 | 654  | Maximum Binary Tree                                  | Medium |
+| 700  | Search in a Binary Search Tree                       | Easy   |
 | 701  | Insert into a Binary Search Tree                     | Medium |
 | 1008 | Construct Binary Search Tree from Preorder Traversal | Medium |
