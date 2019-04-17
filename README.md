@@ -14,6 +14,7 @@
 | 题号 |                       题目名称                       |  难度  |
 | ---- | ---------------------------------------------------- | ------ |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
+| 590  | N-ary Tree Postorder Traversal                       | Easy   |
 | 617  | Merge Two Binary Trees                               | Easy   |
 | 654  | Maximum Binary Tree                                  | Medium |
 | 700  | Search in a Binary Search Tree                       | Easy   |
