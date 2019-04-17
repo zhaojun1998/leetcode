@@ -13,6 +13,7 @@
 
 | 题号 |                       题目名称                       |  难度  |
 | ---- | ---------------------------------------------------- | ------ |
+| 559  | Maximum Depth of N-ary Tree                          | Easy   |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
 | 590  | N-ary Tree Postorder Traversal                       | Easy   |
 | 617  | Merge Two Binary Trees                               | Easy   |
