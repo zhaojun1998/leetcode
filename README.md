@@ -20,5 +20,6 @@
 | 654  | Maximum Binary Tree                                  | Medium |
 | 700  | Search in a Binary Search Tree                       | Easy   |
 | 701  | Insert into a Binary Search Tree                     | Medium |
+| 872  | Leaf-Similar Trees                                   | Easy   |
 | 897  | Increasing Order Search Tree                         | Easy   |
 | 1008 | Construct Binary Search Tree from Preorder Traversal | Medium |
