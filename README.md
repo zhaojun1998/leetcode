@@ -18,6 +18,7 @@
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
 | 590  | N-ary Tree Postorder Traversal                       | Easy   |
 | 617  | Merge Two Binary Trees                               | Easy   |
+| 669  | Trim a Binary Search Tree                            | Easy   |
 | 654  | Maximum Binary Tree                                  | Medium |
 | 700  | Search in a Binary Search Tree                       | Easy   |
 | 701  | Insert into a Binary Search Tree                     | Medium |
