@@ -14,6 +14,7 @@
 | 题号 |                       题目名称                       |  难度  |
 | ---- | ---------------------------------------------------- | ------ |
 | 104  | Maximum Depth of Binary Treee                        | Easy   |
+| 226  | Invert Binary Tree                                   | Easy   |
 | 429  | N-ary Tree Level Order Traversal                     | Easy   |
 | 559  | Maximum Depth of N-ary Tree                          | Easy   |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
