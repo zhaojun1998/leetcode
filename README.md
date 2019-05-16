@@ -27,4 +27,5 @@
 | 701  | Insert into a Binary Search Tree                     | Medium |
 | 872  | Leaf-Similar Trees                                   | Easy   |
 | 897  | Increasing Order Search Tree                         | Easy   |
+| 993  | Cousins in Binary Tree                               | Easy   |
 | 1008 | Construct Binary Search Tree from Preorder Traversal | Medium |
