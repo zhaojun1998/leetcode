@@ -19,6 +19,7 @@
 | 559  | Maximum Depth of N-ary Tree                          | Easy   |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
 | 590  | N-ary Tree Postorder Traversal                       | Easy   |
+| 606  | Construct String from Binary Tree                    | Easy   |
 | 617  | Merge Two Binary Trees                               | Easy   |
 | 637  | Average of Levels in Binary Tree                     | Easy   |
 | 669  | Trim a Binary Search Tree                            | Easy   |
