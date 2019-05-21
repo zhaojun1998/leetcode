@@ -16,6 +16,7 @@
 | 104  | Maximum Depth of Binary Treee                        | Easy   |
 | 226  | Invert Binary Tree                                   | Easy   |
 | 429  | N-ary Tree Level Order Traversal                     | Easy   |
+| 538  | Convert BST to Greater Tree                          | Easy   |
 | 559  | Maximum Depth of N-ary Tree                          | Easy   |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
 | 590  | N-ary Tree Postorder Traversal                       | Easy   |
