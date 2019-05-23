@@ -17,6 +17,7 @@
 | 108  | Convert Sorted Array to Binary Search Tree           | Easy   |
 | 226  | Invert Binary Tree                                   | Easy   |
 | 429  | N-ary Tree Level Order Traversal                     | Easy   |
+| 530  | Minimum Absolute Difference in BST                   | Easy   |
 | 538  | Convert BST to Greater Tree                          | Easy   |
 | 559  | Maximum Depth of N-ary Tree                          | Easy   |
 | 589  | N-ary Tree Preorder Traversal                        | Easy   |
