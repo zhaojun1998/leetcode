@@ -29,6 +29,7 @@
 | 654  | Maximum Binary Tree                                  | Medium |
 | 700  | Search in a Binary Search Tree                       | Easy   |
 | 701  | Insert into a Binary Search Tree                     | Medium |
+| 783  | Minimum Distance Between BST Nodes                   | Easy   |
 | 872  | Leaf-Similar Trees                                   | Easy   |
 | 897  | Increasing Order Search Tree                         | Easy   |
 | 938  | Range Sum of BST                                     | Easy   |
