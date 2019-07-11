@@ -40,3 +40,4 @@
 
 ## Binary
 | 191  | Number of 1 Bits                                     | Easy   |
+| 338  | Counting Bits                                        | Medium |
