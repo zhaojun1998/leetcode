@@ -2,7 +2,7 @@
 
 ## Array
 
-| 题号 |                题目名称                |  难度  |
+| 题号 |                题目名称                 |  难度  |
 | ---- | -------------------------------------- | ------ |
 | 26   | Remove Duplicates from Sorted Array    | Easy   |
 | 27   | Remove Element                         | Easy   |
@@ -11,7 +11,7 @@
 
 ## Tree
 
-| 题号 |                       题目名称                       |  难度  |
+| 题号 |                       题目名称                        |  难度  |
 | ---- | ---------------------------------------------------- | ------ |
 | 104  | Maximum Depth of Binary Treee                        | Easy   |
 | 108  | Convert Sorted Array to Binary Search Tree           | Easy   |
@@ -37,7 +37,9 @@
 | 1008 | Construct Binary Search Tree from Preorder Traversal | Medium |
 | 1022 | Sum of Root To Leaf Binary Numbers                   | Easy   |
 
-
 ## Binary
+
+| 题号 |                       题目名称                        |  难度  |
 | 191  | Number of 1 Bits                                     | Easy   |
 | 338  | Counting Bits                                        | Medium |
+| 461  | Hamming Distance                                     | Easy   |
